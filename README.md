@@ -30,4 +30,15 @@ dupla enterrel
 
 ### idézet ( szövegdoboz)
 
-> Alt+Gr + Y
+> AltGr + Y
+
+### vizszintes valaszvonal
+
+--- 
+
+### Tablazat
+
+| FejlecA | fejlecb |
+|---------|---------|
+|cella1   | cella 2 |
+| sor 1   |  sor 2  |
