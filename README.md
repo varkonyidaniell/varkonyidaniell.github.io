@@ -42,3 +42,13 @@ dupla enterrel
 |---------|---------|
 |cella1   | cella 2 |
 | sor 1   |  sor 2  |
+
+## inline˙(szövegformazas)
+
+*dolt*
+
+**felkover**
+
+~~AltGr+1~~
+
+[link szovege](umszki.hu)
