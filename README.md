@@ -45,9 +45,9 @@ dupla enterrel
 
 ### kodszerkezet
 
-'''html
+```html
 <h1>pelda</h1>
-'''
+```
 
 ## inline˙(szövegformazas)
 
