@@ -27,3 +27,7 @@ dupla enterrel
 1. egg
 2. ham
 3. spam
+
+### idézet ( szövegdoboz)
+
+> Alt+Gr + Y
