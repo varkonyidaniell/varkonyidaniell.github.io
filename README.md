@@ -43,6 +43,10 @@ dupla enterrel
 |cella1   | cella 2 |
 | sor 1   |  sor 2  |
 
+### kodszerkezet
+
+'''<h1>pelda</h1>'''
+
 ## inline˙(szövegformazas)
 
 *dolt*
@@ -51,4 +55,6 @@ dupla enterrel
 
 ~~AltGr+1~~
 
-[link szovege](umszki.hu)
+[link szovege](https://umszki.hu)
+
+![kep szovege](cheat_sheet.png)
