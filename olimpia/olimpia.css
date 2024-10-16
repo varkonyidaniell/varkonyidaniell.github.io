@@ -3,19 +3,19 @@
   padding: 20px;
   border: 1px solid black;
   box-shadow: 5px 5px 10px black;
-  
+  background-color: rgba(234, 200, 150, 0.9) ;
   
 }
 
 #kep1 {
   height: 150px;
-  
+  margin: 20px;
   float: right;
   
 }
 
 a {
-  
+  color: red;
 }
 .img-thumbnail{
 	width:250px;
