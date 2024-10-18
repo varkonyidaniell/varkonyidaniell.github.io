@@ -11,7 +11,7 @@
   height: 150px;
   margin: 20px;
   float: right;
-  
+
 }
 
 a {
@@ -22,6 +22,10 @@ a {
 	height:200px;
 }
 
+ .forras{
+  color: red;
+  text-decoration: none;
+}
 
 h1, h2 {
   font-family: Verdana;
@@ -29,8 +33,10 @@ h1, h2 {
 }
 
 p, li {
-  
+  text-align: justify;
   text-indent: 20px;
 }
 
-
+.row{
+  margin: 20px;
+}
