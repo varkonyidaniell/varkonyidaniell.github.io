@@ -1,0 +1,114 @@
+a {
+    text-decoration: none; 
+}
+
+h1, h2, p{
+    text-align: center;
+}
+
+p{
+    font-size: 18px;
+}
+
+.r{
+    text-align: justify;
+    text-align: left;
+}
+
+.h{
+    text-align: left;
+}
+
+h1{
+    padding: 30px;
+}
+
+h2{
+    padding: 20px;
+}
+
+h5{
+    padding: 20px;
+}
+.container2 {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.left-column {
+    flex: 3;
+    padding-right: 20px;
+}
+
+.right-column {
+    flex: 1;
+    padding-left: 25px;
+    margin-top: 115px;
+}
+
+.container {
+    display: flex;
+    justify-content: center; 
+    gap: 20px;
+}
+
+.card-img-top {
+    height: 200px; 
+    object-fit: cover; 
+  }
+
+#kep1{
+    width: 600px;
+    height: 400px;
+    display: block;      
+    padding: 30px;
+}
+
+#kep2{
+    width: 600px;
+    height: 400px;
+    display: block;      
+    padding: 30px;
+}
+
+#kep3{
+    width: 1000px;
+    height: 600px;
+    display: block;      
+    margin-left: auto;    
+    margin-right: auto;
+    padding: 30px;
+}
+
+#vegkep{
+    width: 400px;
+    height: 400px;
+    display: block;      
+    margin-left: auto;    
+    margin-right: auto;
+    padding: 30px;
+}
+
+#ikon{
+    display: block;      
+    margin-left: auto;    
+    margin-right: auto;
+    padding: 20px;
+}
+
+.navbar-custom {
+    background-color: #000000;
+}
+
+.custom-footer{
+    background-color: #000000;
+    line-height: 1.2;
+}
+
+.custom-accordion {
+    max-width: 750px; 
+    margin: 0 auto;   
+    padding: 30px;
+}
